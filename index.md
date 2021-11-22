@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/Chr1s70ph/Chr1s70ph/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a developer in my freetime. I study Electical-Engineering at KIT-Karlsruhe in Germany.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+I started coding when I was 12 years old. Back then, it was mostly just websites. Since November 2020 I started developing [ETIT-Master](https://github.com/Chr1s70ph/ETIT-Master), a personal Discord-Bot. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Languages
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chr1s70ph/Chr1s70ph/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I began coding using JavaScript, moved on to C# in 2018 and got back to Node.js in 2020. Ever since I have been learning about Node.js/JavaScript and most recently TypeScript. Also I started helping a Project called [QuickKey](https://github.com/leokraft/QuickKey). A small Windows application to quickly find special characters and copy them to your clipboard in an instant, written in C++.
