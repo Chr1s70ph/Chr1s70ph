@@ -1,0 +1,3 @@
+[submodule "myGames"]
+	path = myGames
+	url = https://github.com/Chr1s70ph/Games.git
