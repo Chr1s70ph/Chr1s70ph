@@ -1,17 +1,29 @@
 <!DOCTYPE html>
-<html>
-	<head> </head>
-	<body>
-		<link
-			type="import"
-			href="https://raw.githubusercontent.com/Chr1s70ph/Games/master/FlappyBlock/index.html"
-		/>
+
+<html style="display: table; margin: auto">
+	<head>
+		<link rel="stylesheet" href="../myGames/FlappyBlock/style.css" />
+	</head>
+	<body
+		onload="startGame()"
+		style="margin-left: auto; margin-right: auto; display: table-cell; vertical-align: middle"
+	>
 		<script
 			language="javascript"
 			type="text/javascript"
-			src="../myGames/FlappyBlock/"
+			src="../myGames/FlappyBlock/game.js"
 		></script>
-
-		<p>Hello</p>
+		<!-- body.js from FlappyBlock -->
+		<div style="margin-left: auto; margin-right: auto; text-align: center; width: 480px">
+			<button onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button
+			><br /><br />
+			<button onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">
+				DOWN
+			</button>
+			<br />
+		</div>
+		<p style="margin-left: auto; margin-right: auto; text-align: center; width: 480px">
+			Restart if you died
+		</p>
 	</body>
 </html>
