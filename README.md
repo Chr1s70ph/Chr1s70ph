@@ -18,9 +18,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/christophbluem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="christophbluem" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chr1s70ph&show_icons=true&theme=dark&locale=de&layout=compact" alt="chr1s70ph" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chr1s70ph&show_icons=true&theme=dark&locale=en&layout=compact" alt="chr1s70ph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chr1s70ph&show_icons=true&theme=dark&locale=de" alt="chr1s70ph" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chr1s70ph&show_icons=true&theme=dark&locale=en" alt="chr1s70ph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chr1s70ph&theme=dark" alt="chr1s70ph" /></p>
 
