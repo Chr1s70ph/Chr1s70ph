@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1s70ph&label=Profile%20views&color=555555&style=flat" alt="chr1s70ph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chr1s70ph" alt="chr1s70ph" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chr1s70ph&theme=juicyfresh" alt="chr1s70ph" /></a> </p>
 
 - 🔭 I’m currently working on [ETIT-Master](https://github.com/Chr1s70ph/ETIT-Master)
 
