@@ -20,11 +20,11 @@
 </p>
 
 <p>
-<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=chr1s70ph&show_icons=true&theme=dark&locale=en" alt="chr1s70ph" />
+<img align="left" width="31%" src="https://github-readme-stats.vercel.app/api?username=chr1s70ph&show_icons=true&theme=dark&locale=en" alt="chr1s70ph" />
 
-<img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chr1s70ph&show_icons=true&theme=dark&locale=en&layout=compact" alt="chr1s70ph" />
+<img align="left" width="24%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chr1s70ph&show_icons=true&theme=dark&locale=en&layout=compact" alt="chr1s70ph" />
 
-<img align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=chr1s70ph&theme=dark" alt="chr1s70ph" />
+<img align="left" width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=chr1s70ph&theme=dark" alt="chr1s70ph" />
 </p>
 
 <br><br>
