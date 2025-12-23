@@ -1,3 +1,15 @@
+<div style="border:1px solid #d0d7de; padding:12px; margin-bottom:16px;">
+  <strong>Moved to GitLab</strong><br>
+  Active development continues at
+  <a href="https://gitlab.com/ChristophBluem">gitlab.com/ChristophBluem</a>.<br>
+  Reason:
+  <a href="https://resources.github.com/actions/2026-pricing-changes-for-github-actions/">
+    GitHub Actions pricing changes (2026).
+  </a>
+</div>
+
+<hr>
+
 <h1 align="center">Hey, I'm Christoph 👋</h1>
 <p align="center">🎓 NET-HiWi @ KIT/SCC • 🛠️ Automation, Networking & DevOps</p>
 
