@@ -11,18 +11,11 @@
 <hr>
 
 <h1 align="center">Hey, I'm Christoph 👋</h1>
-<p align="center">🎓 NET-HiWi @ KIT/SCC • 🛠️ Automation, Networking & DevOps</p>
+<p align="center">🎓 Sysadmin @ KIT/SCC • 🛠️ Automation, Networking & DevOps</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chr1s70ph&label=Profile%20views&color=555555&style=flat" alt="Profile Views" />
 </p>
-
----
-
-### 🔧 Projects
-
-- 🤖 [ETIT-Master](https://github.com/Chr1s70ph/ETIT-Master) — Discord bot for ETIT students  
-- 🌐 [cbluem.de](https://cbluem.de) — Personal site & contact
 
 ---
 
